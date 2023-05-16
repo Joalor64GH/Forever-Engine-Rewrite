@@ -1,2 +1,3 @@
-# Forever-Engine-Rewrite
-Reupload of Forever Engine (Unfinished Rewrite) by Yoshubs.
+# FNF-Forever-Engine
+
+A Work-in-Progress Open-Source rewrite of the FNF Forever Engine.

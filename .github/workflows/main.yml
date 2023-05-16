@@ -41,6 +41,8 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-ui
           haxelib install flixel-addons
+          haxelib install haxeui-core
+          haxelib install haxeui-flixel
           haxelib install tjson
           haxelib install hxjsonast
           haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
@@ -81,6 +83,8 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-ui
           haxelib install flixel-addons
+          haxelib install haxeui-core
+          haxelib install haxeui-flixel
           haxelib install tjson
           haxelib install hxjsonast
           haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
@@ -122,6 +126,8 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-ui
           haxelib install flixel-addons
+          haxelib install haxeui-core
+          haxelib install haxeui-flixel
           haxelib install tjson
           haxelib install hxjsonast
           haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
